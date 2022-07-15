@@ -25,7 +25,7 @@ Part 2: A financial planner for retirement. This tool will forecast the performa
 
 This notebook also contains light analysis sample of results.
 
-![Screenshot of the app.](Images/5-4-monte-carlo-line-plot.png)
+![Screenshot of the app.](financial_planning/Images/5-4-monte-carlo-line-plot.png)
 
 ---
 
